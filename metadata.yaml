@@ -1,0 +1,32 @@
+_repo: Plus-fort-que-la-haine_17668
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tinseau, Léon de
+    aliases:
+    - Tinseau, Leon de
+    - Tinseau, Antoine-Joseph-Léon de
+    - Tinseau, Léon de, comte
+    - De Tinseau, Léon
+    birthdate: 1844
+    deathdate: 1921
+    gutenberg_agent_id: '7530'
+    url: http://www.gutenberg.org/2009/agents/7530
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2006-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17668'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: Plus fort que la haine
+url: http://www.gutenberg.org/ebooks/17668
